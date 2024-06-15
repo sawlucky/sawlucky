@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucky! 🌟</h1>
-<h3 align="center">"Engineer by Degree, Artist by Code"</h3>
+<h3 align="left">"Engineer by Degree, Artist by Code"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
