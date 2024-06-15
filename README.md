@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucky! 🌟</h1>
+<h1 align="left">Hi 👋, I'm Lucky! 🌟</h1>
 <br>
 <h2 align="left">Engineer by Degree, Artist by Code</h2>
 
