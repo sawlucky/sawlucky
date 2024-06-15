@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucky! 🌟</h1>
 <h3 align="center">"Engineer by Degree, Artist by Code"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawlucky&label=Profile%20views&color=0e75b6&style=flat" alt="sawlucky" /> </p>
-
-- 📫 How to reach me **https://www.linkedin.com/in/lucky-saw-8b3239206/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucky-saw-8b3239206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucky-saw-8b3239206/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shah__lucky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shah__lucky/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.naukri.com/code360/profile/3029b33e-7e31-45e1-9dc4-64bfcc7bdbc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.naukri.com/code360/profile/3029b33e-7e31-45e1-9dc4-64bfcc7bdbc4" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/sawlucky2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sawlucky2001" height="30" width="40" /></a>
 </p>
