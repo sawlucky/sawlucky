@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Lucky! 🌟</h1>
 <h3 align="left">Engineer by Degree, Artist by Code</h3>
   <ul>
-        <li>🔭 On a journey to master Computer Science & Engineering as a dedicated undergraduate.</li>
+        <li>⚡ Passionate about building scalable solutions & optimizing performance.</li>
         <li>💻 Full-Stack Developer | Open Source Enthusiast</li>
-        <li>🌱 I’m currently learning Web Development.</li>
+        <li>🚀 Mastered Web Development & Always Exploring Cutting-Edge Tech</li>
         <li>⚡ Fun fact: I am an Engineer!</li>
     </ul>
 
